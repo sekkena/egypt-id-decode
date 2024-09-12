@@ -1,0 +1,29 @@
+{
+  "name": "egypt-id-decode",
+  "version": "1.0.0",
+  "description": "egypt-id-decode is a lightweight and easy-to-use utility for decoding and validating Egyptian National ID numbers. This package allows you to extract key information such as birth date, gender, governorate of issue, and more from the 14-digit Egyptian National ID. It also ensures that the ID format is valid, helping you easily handle Egyptian citizen data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekkena/egypt-id-decode.git"
+  },
+  "keywords": [
+    "egypt",
+    "id",
+    "decode",
+    "discord",
+    "get",
+    "egyption",
+    "masr",
+    "om-el-dania"
+  ],
+  "author": "sekkena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekkena/egypt-id-decode/issues"
+  },
+  "homepage": "https://github.com/sekkena/egypt-id-decode#readme"
+}
